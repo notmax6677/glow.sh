@@ -28,6 +28,11 @@ Afterwards just make it executable
 chmod +x glow.sh
 ```
 
+You can also take out the extension for simplicity
+```sh
+mv PATH_TO_FOLDER/glow.sh PATH_TO_FOLDER/glow
+```
+
 ## Usage
 
 #### Get function
