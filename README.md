@@ -23,6 +23,11 @@ curl
 curl https://raw.githubusercontent.com/notmax6677/glow.sh/main/glow.sh -o glow.sh
 ```
 
+Afterwards just make it executable
+```sh
+chmod +x glow.sh
+```
+
 ## Usage
 
 #### Get function
