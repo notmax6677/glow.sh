@@ -3,8 +3,25 @@
 This script is meant to bridge the distance between the complicated usage of changing screen brightnesses with xrandr, and monkeys who can't be bothered to remember all of the documentation just to turn their screen down 5 brightness units.
 
 ## Prerequisites
+* xrandr
+* tput
+* bc
+* grep
+* awk
 
 ## Installation
+
+You can install this file by either downloading it, curling it, or fetching it with wget.
+
+wget
+```sh
+wget https://raw.githubusercontent.com/notmax6677/glow.sh/main/glow.sh
+```
+
+curl
+```sh
+curl https://raw.githubusercontent.com/notmax6677/glow.sh/main/glow.sh -o glow.sh
+```
 
 ## Usage
 
